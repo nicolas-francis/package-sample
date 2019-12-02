@@ -1,0 +1,18 @@
+{
+  "name": "@isante/ngx-datatable",
+  "version": "0.0.2",
+  "description": "ngx-datatable is an Angular table grid component for presenting large and complex data.",
+  "peerDependencies": {
+    "@angular/common": "<9.0.0",
+    "@angular/core": "<9.0.0",
+    "@angular/platform-browser": "<9.0.0",
+    "rxjs": "^6.5.2"
+  },
+  "repository": "https://github.com/isante/corebox",
+  "author": "isante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isante/ngx-datatable/issues"
+  },
+  "homepage": "https://github.com/isante/ngx-datatable#readme"
+}
