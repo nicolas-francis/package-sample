@@ -1,7 +1,7 @@
 {
   "name": "@nicolas-francis/pack-one",
   "repository": "https://github.com/nicolas-francis/package-sample",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
